@@ -1,0 +1,6 @@
+package darioediaz.Interfaces;
+
+public interface GeneradorDistribucion {
+
+	private void 
+}
